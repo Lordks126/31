@@ -30,7 +30,7 @@
 <p>Как решал: краткое описание решения (автореферат)<p>
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/Lordks126/31/blob/main/%D0%A1%D0%B0%D0%BF%D0%B5%D0%BB%D0%B8%D0%BD%D0%9A.%D0%9E._%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20Excel.xlsx">Ссылка на проект</a>
 
 <p>Выводы (итоги):<p>
 <ol>
